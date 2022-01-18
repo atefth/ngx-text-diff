@@ -21,7 +21,6 @@
     "node": "12.16.2",
     "npm": "6.12.0"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^12.2.15",
     "@angular/cdk": "^12.2.13",
